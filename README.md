@@ -1,6 +1,4 @@
-# Motion-Compensated-Pulse-Rate-Estimation
-
------
+# PhysioNetMotionPulse
 
 ## Introduction
 A core feature that many users expect from their wearable devices is pulse rate estimation. Continuous pulse rate estimation can be informative for many aspects of a wearer's health. Pulse rate during exercise can be a measure of workout intensity and resting heart rate is sometimes used as an overall measure of cardiovascular fitness. In this project I created a pulse rate estimation algorithm for a wrist-wearable device.
@@ -63,6 +61,3 @@ The data from this project comes from the [Cardiac Arrythmia Suppression Trial (
 
 This repository is licensed under the terms of the MIT license.
 
-## Acknowledgement
-
-This project has been completed as a part of [AI for Healthcare](https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320).
